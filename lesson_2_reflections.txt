@@ -1,0 +1,8 @@
+What happens when you initialize a repository? Why do you need to do it?
+Ans: Git creates a new repo for the current directory
+I need to do this in order to start using git to versionize my files in the directory
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+Ans: the staging area holds files before they are commited
+while working directory is the current version of your repo that you are working on
+Repo is all your files and their commits tracked by git
