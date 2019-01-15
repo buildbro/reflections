@@ -13,3 +13,7 @@ Ans: One can run git diff --staged and compare changes before commit
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 Ans: Branches would be helpful if one if making a huge overhaul of code or trying new features.
 Branches will help by giving you a workspace to try out stuffs while leave master intact or for main work only
+
+How do the diagrams help you visualize the branch structure?
+Ans: By showing that the relationship between commits are parent child where the most recent
+commit is a child of the previous one.
