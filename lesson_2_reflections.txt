@@ -17,3 +17,7 @@ Branches will help by giving you a workspace to try out stuffs while leave maste
 How do the diagrams help you visualize the branch structure?
 Ans: By showing that the relationship between commits are parent child where the most recent
 commit is a child of the previous one.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+Ans: Merging 2 branches together bring changes from both branches together as one commit.
+A digram will help us see the relationship between commits in the merged branches.
