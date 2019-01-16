@@ -3,3 +3,7 @@ Ans: Remote repo will be useful when I wish to share my code with the public or 
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 Ans: Manual pull will enable you decide when to obtain commits from remote repo, hence giving you more control.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+Ans: Fork copy's repos on Github, Clone copy's repo from git to local or from one local to a new local.
+branch creates a new experimental repo off the master branch or another branch.
