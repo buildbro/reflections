@@ -21,3 +21,7 @@ commit is a child of the previous one.
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 Ans: Merging 2 branches together bring changes from both branches together as one commit.
 A digram will help us see the relationship between commits in the merged branches.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Ans: Pros includes, no need to manaully edit files, and speed. Cons, can not work if files contains serious changes.
+Doing merge manually can be time consuming. however its much easier to resolve conflict.
